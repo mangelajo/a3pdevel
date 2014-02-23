@@ -1,0 +1,74 @@
+<?xml version = "1.0" ?>
+<?xml:stylesheet type="text/xsl" href="PCB_microdevel_actel_BOM.xsl"?>
+<!DOCTYPE GRID [
+  <!ELEMENT GRID (BANDS, COLUMNS, ROWS*)>
+  <!ATTLIST GRID ExportVersion CDATA #REQUIRED>
+  <!ELEMENT BANDS (BAND*)>
+  <!ELEMENT BAND EMPTY>
+  <!ATTLIST BAND Index CDATA #REQUIRED>
+  <!ATTLIST BAND Caption CDATA #IMPLIED>
+  <!ELEMENT COLUMNS (COLUMN*)>
+  <!ELEMENT COLUMN EMPTY>
+  <!ATTLIST COLUMN Name CDATA #REQUIRED>
+  <!ATTLIST COLUMN Caption CDATA #IMPLIED>
+  <!ATTLIST COLUMN Index CDATA #REQUIRED>
+  <!ATTLIST COLUMN BandIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN RowIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN ColIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN Width CDATA #IMPLIED>
+  <!ELEMENT GROUP (GROUP*, ROW*)>
+  <!ATTLIST GROUP GroupText CDATA #IMPLIED>
+  <!ELEMENT ROWS (ROW*)>
+  <!ELEMENT ROW EMPTY>
+  <!ATTLIST ROW Comment CDATA #IMPLIED>
+  <!ATTLIST ROW Description CDATA #IMPLIED>
+  <!ATTLIST ROW Designator CDATA #IMPLIED>
+  <!ATTLIST ROW Footprint CDATA #IMPLIED>
+  <!ATTLIST ROW LibRef CDATA #IMPLIED>
+  <!ATTLIST ROW Quantity CDATA #IMPLIED>
+]>
+<GRID ExportVersion="1.0">
+  <BANDS>
+    <BAND Index="0" Caption=""></BAND>
+  </BANDS>
+  <COLUMNS>
+    <COLUMN Name="Comment" Caption="Comment" Index="0" BandIndex="0" RowIndex="0" ColIndex="0" Width="100"></COLUMN>
+    <COLUMN Name="Description" Caption="Description" Index="1" BandIndex="0" RowIndex="0" ColIndex="1" Width="100"></COLUMN>
+    <COLUMN Name="Designator" Caption="Designator" Index="2" BandIndex="0" RowIndex="0" ColIndex="2" Width="100"></COLUMN>
+    <COLUMN Name="Footprint" Caption="Footprint" Index="3" BandIndex="0" RowIndex="0" ColIndex="3" Width="100"></COLUMN>
+    <COLUMN Name="LibRef" Caption="LibRef" Index="4" BandIndex="0" RowIndex="0" ColIndex="4" Width="100"></COLUMN>
+    <COLUMN Name="Quantity" Caption="Quantity" Index="5" BandIndex="0" RowIndex="0" ColIndex="5" Width="100"></COLUMN>
+  </COLUMNS>
+  <ROWS>
+    <ROW Comment="100nF" Description="Capacitor &#40;Semiconductor SIM Model&#41;" Designator="C1, C2, C3, C4, C5, C6, C8, C10, C11, C13, C15, C16, C17, C18, C19, C20" Footprint="0603" LibRef="Cap Semi" Quantity="16"></ROW>
+    <ROW Comment="1pF" Description="Capacitor &#40;Semiconductor SIM Model&#41;" Designator="C7" Footprint="0603" LibRef="Cap Semi" Quantity="1"></ROW>
+    <ROW Comment="10uF 6V" Description="Polarized Capacitor &#40;Surface Mount&#41;" Designator="C9" Footprint="CC-6030" LibRef="Cap Pol3" Quantity="1"></ROW>
+    <ROW Comment="1uF" Description="Capacitor &#40;Semiconductor SIM Model&#41;" Designator="C12" Footprint="0603" LibRef="Cap Semi" Quantity="1"></ROW>
+    <ROW Comment="http://es.farnell.com/jsp/endecaSearch/partDetail.jsp&#63;SKU&#61;967038&#38;N&#61;4011 &#40;t&#225;ntalo&#41;" Description="Polarized Capacitor &#40;Surface Mount&#41;" Designator="C14" Footprint="CC-6030" LibRef="Cap Pol3" Quantity="1"></ROW>
+    <ROW Comment="10uF / 0805 / ceramic" Description="10uF ceramic capacitor" Designator="C21" Footprint="0805" LibRef="Cap Semi" Quantity="1"></ROW>
+    <ROW Comment="10nF" Description="Capacitor &#40;Semiconductor SIM Model&#41;" Designator="C22" Footprint="0603" LibRef="Cap Semi" Quantity="1"></ROW>
+    <ROW Comment="100pF" Description="Capacitor &#40;Semiconductor SIM Model&#41;" Designator="C23" Footprint="0603" LibRef="Cap Semi" Quantity="1"></ROW>
+    <ROW Comment="Blue led" Description="Typical INFRARED GaAs LED" Designator="D1" Footprint="LED_0603" LibRef="LED0" Quantity="1"></ROW>
+    <ROW Comment="White Led" Description="Typical INFRARED GaAs LED" Designator="D2" Footprint="LED_0603" LibRef="LED0" Quantity="1"></ROW>
+    <ROW Comment="Green led" Description="Typical INFRARED GaAs LED" Designator="D3" Footprint="LED_0603" LibRef="LED0" Quantity="1"></ROW>
+    <ROW Comment="LED0" Description="Red Led" Designator="D4" Footprint="LED_0603" LibRef="LED0" Quantity="1"></ROW>
+    <ROW Comment="1N4148" Description="Default Diode" Designator="D5" Footprint="DIODE_1206" LibRef="Diode" Quantity="1"></ROW>
+    <ROW Comment="Header 2H" Description="Header, 2-Pin, Right Angle" Designator="JP" Footprint="HDR1X2" LibRef="Header 2H" Quantity="1"></ROW>
+    <ROW Comment="2x5 pin header" Description="Header, 5-Pin, Dual row" Designator="JTAG" Footprint="HDR2X5" LibRef="Header 5X2" Quantity="1"></ROW>
+    <ROW Comment="6.8uH / low DCR inductor" Description="Magnetic-Core Inductor" Designator="L1" Footprint="TOKO DB318C" LibRef="Inductor Iron" Quantity="1"></ROW>
+    <ROW Comment="&#40;NC&#41;  Female&#40;Holes&#41; Header 13X2" Description="Header, 13-Pin, Dual row" Designator="P1, P2, P3, P4" Footprint="HDR2X13" LibRef="Header 13X2" Quantity="4"></ROW>
+    <ROW Comment="10k" Description="Resistor" Designator="R1, R2" Footprint="0603" LibRef="Res1" Quantity="2"></ROW>
+    <ROW Comment="330 ohm" Description="Resistor" Designator="R3, R4, R5, R6" Footprint="0603" LibRef="Res1" Quantity="4"></ROW>
+    <ROW Comment="100k" Description="Resistor" Designator="R7" Footprint="0603" LibRef="Res1" Quantity="1"></ROW>
+    <ROW Comment="50 ohm" Description="Resistor" Designator="R8" Footprint="0603" LibRef="Res1" Quantity="1"></ROW>
+    <ROW Comment="SW DIP-4" Description="DIP Switch, 4 Position, SPST" Designator="SW1" Footprint="SO8" LibRef="SW DIP-4" Quantity="1"></ROW>
+    <ROW Comment="A3P250-VQ100" Description="ProASIC3 Flash Family FPGA, 71 User IOs, 60K System Gates, 18 Kbits RAM, 1 Kbit Flash ROM, 1 PLL, 100-Pin VQFP, Commercial Grade" Designator="U1" Footprint="A3P060" LibRef="A3P060-1VQ100" Quantity="1"></ROW>
+    <ROW Comment="25F010" Description="" Designator="U2" Footprint="8S1" LibRef="25F010" Quantity="1"></ROW>
+    <ROW Comment="&#40;NC&#41; LM809" Description="" Designator="U3" Footprint="SOT23-2" LibRef="LM809" Quantity="1"></ROW>
+    <ROW Comment="LDO 1.5V" Description="LDO 1.5V" Designator="VR1" Footprint="G4TOB" LibRef="VREG1_5" Quantity="1"></ROW>
+    <ROW Comment="LM1117-3.3V" Description="" Designator="VR2" Footprint="DSO-G3" LibRef="LM1117-3.3" Quantity="1"></ROW>
+    <ROW Comment="&#40;NC&#41; Jumper" Description="Jumper Wire" Designator="W1" Footprint="JUMPER" LibRef="Jumper" Quantity="1"></ROW>
+    <ROW Comment="&#40;NC&#41;  Jumper" Description="Jumper Wire" Designator="W2, W3" Footprint="JUMPER" LibRef="Jumper" Quantity="2"></ROW>
+    <ROW Comment="3V / 24Mhz Oscillator" Description="" Designator="X1" Footprint="OSC 3x5mm" LibRef="OSCILATOR" Quantity="1"></ROW>
+  </ROWS>
+</GRID>

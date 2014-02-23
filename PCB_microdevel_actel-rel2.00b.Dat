@@ -1,0 +1,31 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~microdevel_actel.prjpcb|ReportField=ProjectFullPath~Z:\clientes\nbee\modules\actel\microdevel\src\pcb\microdevel_actel.prjpcb|ReportField=Title~Bill of Materials For PCB Document [PCB_microdevel_actel-rel2.00b.pcbdoc]|ReportField=TotalQuantity~53|ReportField=ReportTime~14:13:17|ReportField=ReportDate~02/01/2012|ReportField=ReportDateTime~02/01/2012 14:13:17|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~PCB_microdevel_actel-rel2.00b.pcbdoc|ReportField=DataSourceFullPath~Z:\clientes\nbee\modules\actel\microdevel\src\pcb\PCB_microdevel_actel-rel2.00b.pcbdoc
+100nF|Capacitor (Semiconductor SIM Model)|C1, C2, C3, C4, C5, C6, C8, C10, C11, C13, C15, C16, C17, C18, C19, C20|0603|Cap Semi|16
+1pF|Capacitor (Semiconductor SIM Model)|C7|0603|Cap Semi|1
+10uF 6V|Polarized Capacitor (Surface Mount)|C9|CC-6030|Cap Pol3|1
+1uF|Capacitor (Semiconductor SIM Model)|C12|0603|Cap Semi|1
+http://es.farnell.com/jsp/endecaSearch/partDetail.jsp?SKU=967038&N=4011 (tántalo)|Polarized Capacitor (Surface Mount)|C14|CC-6030|Cap Pol3|1
+10uF / 0805 / ceramic|10uF ceramic capacitor|C21|0805|Cap Semi|1
+10nF|Capacitor (Semiconductor SIM Model)|C22|0603|Cap Semi|1
+100pF|Capacitor (Semiconductor SIM Model)|C23|0603|Cap Semi|1
+Blue led|Typical INFRARED GaAs LED|D1|LED_0603|LED0|1
+White Led|Typical INFRARED GaAs LED|D2|LED_0603|LED0|1
+Green led|Typical INFRARED GaAs LED|D3|LED_0603|LED0|1
+LED0|Red Led|D4|LED_0603|LED0|1
+1N4148|Default Diode|D5|DIODE_1206|Diode|1
+Header 2H|Header, 2-Pin, Right Angle|JP|HDR1X2|Header 2H|1
+2x5 pin header|Header, 5-Pin, Dual row|JTAG|HDR2X5|Header 5X2|1
+6.8uH / low DCR inductor|Magnetic-Core Inductor|L1|TOKO DB318C|Inductor Iron|1
+(NC)  Female(Holes) Header 13X2|Header, 13-Pin, Dual row|P1, P2, P3, P4|HDR2X13|Header 13X2|4
+10k|Resistor|R1, R2|0603|Res1|2
+330 ohm|Resistor|R3, R4, R5, R6|0603|Res1|4
+100k|Resistor|R7|0603|Res1|1
+50 ohm|Resistor|R8|0603|Res1|1
+SW DIP-4|DIP Switch, 4 Position, SPST|SW1|SO8|SW DIP-4|1
+A3P250-VQ100|ProASIC3 Flash Family FPGA, 71 User IOs, 60K System Gates, 18 Kbits RAM, 1 Kbit Flash ROM, 1 PLL, 100-Pin VQFP, Commercial Grade|U1|A3P060|A3P060-1VQ100|1
+25F010||U2|8S1|25F010|1
+(NC) LM809||U3|SOT23-2|LM809|1
+LDO 1.5V|LDO 1.5V|VR1|G4TOB|VREG1_5|1
+LM1117-3.3V||VR2|DSO-G3|LM1117-3.3|1
+(NC) Jumper|Jumper Wire|W1|JUMPER|Jumper|1
+(NC)  Jumper|Jumper Wire|W2, W3|JUMPER|Jumper|2
+3V / 24Mhz Oscillator||X1|OSC 3x5mm|OSCILATOR|1

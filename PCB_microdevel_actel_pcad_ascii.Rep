@@ -1,0 +1,76 @@
+Export log for : PCB_microdevel_actel_pcad_ascii.Rep
+AddingPadStyle (Default)
+AddingPadStyle EF39X43TOP1
+AddingPadStyle EF59X57TOP1
+AddingPadStyle EF59X51TOP1
+AddingPadStyle EF30X30TOP1
+AddingPadStyle EF20X20TOP1
+AddingPadStyle EF14X14TOP1
+AddingPadStyle EF22X61TOP1
+AddingPadStyle EF79X47TOP1
+AddingPadStyle EF80X10TOP1
+AddingPadStyle EF24X87TOP1
+AddingPadStyle EF24X87TOP2
+AddingPadStyle P:EX59Y59D351
+AddingPadStyle P:SX59Y59D351
+AddingPadStyle EF31X31TOP1
+AddingPadStyle EF118X73TOP1
+AddingPadStyle EF138X85TOP1
+AddingPadStyle EF43X85TOP1
+AddingPadStyle EF43X85TOP2
+AddingPadStyle EF40X60TOP1
+AddingPadStyle EF40X50TOP1
+AddingPadStyle EF60X60TOP1
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX24Y24D121
+Adding ViaStyle V:EX30Y30D201
+Adding TextStyle (Default)
+Adding TextStyle T:H31W5
+Adding TextStyle T:H60W10
+Adding TextStyle T:H39W6
+Adding TextStyle T:H39W61
+Adding TextStyle T:H60W6
+Adding PatternDef 0603_1
+Adding PatternDef TOKO DB318C_1
+Adding PatternDef 0805_1
+Adding PatternDef 0603_2
+Adding PatternDef JUMPER_1
+Adding PatternDef SOT23-2_1
+Adding PatternDef OSC 3x5mm_1
+Adding PatternDef A3P060_1
+Adding PatternDef SO8_1
+Adding PatternDef HDR2X13_1
+Adding PatternDef HDR2X5_1
+Adding PatternDef HDR1X2_1
+Adding PatternDef LED_0603_1
+Adding PatternDef CC-6030_1
+Adding PatternDef DSO-G3_1
+Adding PatternDef G4TOB_1
+Adding PatternDef 8S1_1
+Adding PatternDef DIODE_1206_1
+Adding PatternDef CC-6030_2
+Adding CompDef 0603_1
+Adding CompDef TOKO DB318C_1
+Adding CompDef 0805_1
+Adding CompDef 0603_2
+Adding CompDef JUMPER_1
+Adding CompDef SOT23-2_1
+Adding CompDef OSC 3x5mm_1
+Adding CompDef A3P060_1
+Adding CompDef SO8_1
+Adding CompDef HDR2X13_1
+Adding CompDef HDR2X5_1
+Adding CompDef HDR1X2_1
+Adding CompDef LED_0603_1
+Adding CompDef CC-6030_1
+Adding CompDef DSO-G3_1
+Adding CompDef G4TOB_1
+Adding CompDef 8S1_1
+Adding CompDef DIODE_1206_1
+Adding CompDef CC-6030_2
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Free Arc Object Found On Layer BottomOverlay.   This may cause problems in PCAD PCB
+ 
+EndLog

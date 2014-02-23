@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCB_microdevel_actel.pcbdoc   23/02/2014  12:36:31
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_microdevel_actel.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          110              16.25 Inch (412.76 mm)
+T2        20mil (0.508mm)          Round          1                0.00 Inch (0.00 mm)
+T3        35mil (0.889mm)          Round          116              13.89 Inch (352.80 mm)
+---------------------------------------------------------------------------
+Totals                                            227              30.14 Inch (765.56 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

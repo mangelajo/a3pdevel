@@ -1,0 +1,56 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C23        0603              2700.787mil   5259.842mil   2700.787mil   5259.842mil   2700.787mil   5226.378mil  B         90.00 100pF          
+L1         TOKO_DB318C       2858.267mil   5200.787mil   2858.267mil   5200.787mil   2901.574mil   5200.787mil  B        360.00 6.8uH / low DCR inductor
+C22        0603              2751.968mil   5259.842mil   2751.968mil   5259.842mil   2751.968mil   5226.378mil  B         90.00 10nF           
+C21        0805              2637.795mil   5251.968mil   2637.795mil   5251.968mil   2637.795mil   5214.567mil  B         90.00 10uF / 0805 / ceramic
+C20        0603              2708.661mil    4842.52mil   2708.661mil    4842.52mil   2736.161mil    4842.52mil  B        180.00 100nF          
+C19        0603              3295.275mil   5090.551mil   3295.275mil   5090.551mil   3322.775mil   5090.551mil  B        180.00 100nF          
+C18        0603               3314.96mil   5440.945mil    3314.96mil   5440.945mil    3342.46mil   5440.945mil  B        180.00 100nF          
+C17        0603              3051.181mil   4925.197mil   3051.181mil   4925.197mil   3051.181mil   4897.697mil  B         90.00 100nF          
+C16        0603              3255.905mil   4901.575mil   3255.905mil   4901.575mil   3228.405mil   4901.575mil  B        360.00 100nF          
+C5         0603              3318.897mil   5267.717mil   3318.897mil   5267.717mil   3346.397mil   5267.717mil  B        180.00 100nF          
+W3         JUMPER            2302.165mil   6044.124mil    2303.15mil   6035.433mil   2302.165mil   6072.913mil  T        270.00 (NC)  Jumper   
+W2         JUMPER            2418.307mil   5894.517mil   2417.323mil   5885.827mil   2418.307mil   5923.307mil  B        270.00 (NC)  Jumper   
+W1         JUMPER            3347.441mil   4495.246mil   3346.457mil   4503.937mil   3347.441mil   4466.457mil  T         90.00 (NC) Jumper    
+U3         SOT23-2           2358.268mil   5535.433mil   2358.268mil   5535.433mil   2395.669mil   5499.016mil  B         90.00 (NC) LM809     
+R8         0603              2468.504mil   5192.913mil   2468.504mil   5192.913mil   2496.004mil   5192.913mil  T        180.00 50 ohm         
+R2         0603              3688.976mil   4496.063mil   3688.976mil   4496.063mil   3688.976mil   4468.563mil  T         90.00 10k            
+R1         0603              3374.016mil   4862.205mil   3374.016mil   4862.205mil   3374.016mil   4834.705mil  B         90.00 10k            
+C10        0603              3374.016mil   4976.378mil   3374.016mil   4976.378mil   3374.016mil   4948.878mil  B         90.00 100nF          
+C7         0603              2531.496mil   5086.614mil   2531.496mil   5086.614mil   2531.496mil   5059.114mil  T         90.00 1pF            
+X1         OSC_3x5mm         2388.819mil   5093.071mil   2388.819mil   5093.071mil   2333.819mil   5058.071mil  T          0.00 3V / 24Mhz Oscillator
+U1         A3P060            3014.961mil    5223.78mil       2700mil       5460mil       2700mil       5460mil  T          0.00 A3P250-VQ100   
+SW1        SO8                   3220mil       4660mil       3220mil       4660mil   3322.362mil       4585mil  T         90.00 SW DIP-4       
+P4         HDR2X13               3000mil       6050mil       3600mil       6100mil       3600mil       6100mil  T        180.00 (NC)  Female(Holes) Header 13X2
+P3         HDR2X13               3850mil       5200mil       3900mil       4600mil       3900mil       4600mil  T         90.00 (NC)  Female(Holes) Header 13X2
+P2         HDR2X13               3000mil       4350mil       2400mil       4300mil       2400mil       4300mil  T        360.00 (NC)  Female(Holes) Header 13X2
+P1         HDR2X13               2150mil       5200mil       2100mil       5800mil       2100mil       5800mil  T        270.00 (NC)  Female(Holes) Header 13X2
+JTAG       HDR2X5                3550mil       4800mil       3600mil       4600mil       3600mil       4600mil  T         90.00 2x5 pin header 
+JP         HDR1X2            2311.024mil   5833.465mil   2311.024mil   5783.465mil   2311.024mil   5783.465mil  T         90.00 Header 2H      
+D4         LED_0603              3900mil       6100mil       3900mil       6100mil       3900mil   6129.528mil  T        270.00 LED0           
+D3         LED_0603              3800mil       6100mil       3800mil       6100mil       3800mil   6129.528mil  T        270.00 Green led      
+D2         LED_0603              3800mil       5960mil       3800mil       5960mil       3800mil   5989.528mil  T        270.00 White Led      
+D1         LED_0603              3900mil       5960mil       3900mil       5960mil       3900mil   5989.528mil  T        270.00 Blue led       
+C9         CC-6030           2511.811mil   5729.391mil   2511.811mil   5744.095mil   2511.811mil   5644.686mil  T         90.00 10uF 6V        
+C1         0603              2389.764mil   4984.252mil   2389.764mil   4984.252mil   2362.264mil   4984.252mil  T          0.00 100nF          
+C6         0603              2716.535mil   5007.874mil   2716.535mil   5007.874mil   2744.035mil   5007.874mil  B        180.00 100nF          
+VR2        DSO-G3            2649.606mil   5759.842mil   2649.606mil   5759.842mil   2771.654mil   5850.394mil  B         90.00 LM1117-3.3V    
+VR1        G4TOB             2858.267mil   5366.142mil   2858.267mil   5366.142mil   2898.267mil   5316.142mil  B        180.00 LDO 1.5V       
+U2         8S1               2784.252mil       4680mil   2784.252mil       4680mil   2886.614mil       4755mil  B        270.00 25F010         
+R7         0603                  2580mil       5405mil       2580mil       5405mil       2580mil     5377.5mil  B         90.00 100k           
+R6         0603              3901.575mil   6102.362mil   3901.575mil   6102.362mil   3901.575mil   6129.862mil  B        270.00 330 ohm        
+R5         0603              3799.213mil   6102.362mil   3799.213mil   6102.362mil   3799.213mil   6129.862mil  B        270.00 330 ohm        
+R4         0603              3799.213mil    5960.63mil   3799.213mil    5960.63mil   3799.213mil    5988.13mil  B        270.00 330 ohm        
+R3         0603              3901.575mil    5960.63mil   3901.575mil    5960.63mil   3901.575mil    5988.13mil  B        270.00 330 ohm        
+D5         DIODE_1206            2480mil     5432.5mil       2480mil       5365mil       2480mil       5365mil  B         90.00 1N4148         
+C14        CC-6030           2917.323mil   5764.823mil   2917.323mil   5779.527mil   2917.323mil   5680.119mil  B         90.00 http://es.farnell.com/jsp/endecaSearch/partDetail.jsp?SKU=967038&N=4011 (tántalo)
+C13        0603              2129.921mil    5960.63mil   2129.921mil    5960.63mil   2102.421mil    5960.63mil  B        360.00 100nF          
+C12        0603              2370.079mil   5397.637mil   2370.079mil   5397.637mil   2370.079mil   5425.137mil  B        270.00 1uF            
+C11        0603              2996.063mil   4925.197mil   2996.063mil   4925.197mil   2996.063mil   4897.697mil  B         90.00 100nF          
+C8         0603              2996.063mil   5200.787mil   2996.063mil   5200.787mil   3023.563mil   5200.787mil  B        180.00 100nF          
+C15        0603              2716.535mil   5086.614mil   2716.535mil   5086.614mil   2689.035mil   5086.614mil  B        360.00 100nF          
+C4         0603              3035.433mil   5507.874mil   3035.433mil   5507.874mil   3035.433mil   5535.374mil  B        270.00 100nF          
+C3         0603              3318.897mil   5322.835mil   3318.897mil   5322.835mil   3291.397mil   5322.835mil  B        360.00 100nF          
+C2         0603              2716.535mil   5145.669mil   2716.535mil   5145.669mil   2689.035mil   5145.669mil  B        360.00 100nF          
+
